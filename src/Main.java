@@ -44,7 +44,7 @@ public class Main {
         }
 
 //Задача 2 дз3
-        int ageChild = 16;
+        int ageChild = 15;
         boolean adult = true;
         if (ageChild <= 5) {
             System.out.println("Ребенок не может кататься на атракционах.");
